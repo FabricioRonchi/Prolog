@@ -5,7 +5,7 @@ Introdução ao Prolog
 
 Inteligência Artificial
 
-Bacharel em Sistemas de Informação
+Bacharel em Sistemas de Informação - 5ª Fase
 
 
 <h3>Informações</h3>
